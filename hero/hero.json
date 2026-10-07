@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "fw01-video",
+      "type": "video",
+      "src": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-media@c5cde61a2eaedd39c3bde10e44d9ed72575fa9c4/fw01/IMG_8292-2.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-web-assets@7d3cae5595a79775ba32d1a010352d0fdedb2684/hero/images/fw01-poster.webp",
+      "href": "/skin-skin2/product/high-neck-work-jacket/2717/category/1/display/3/?icid=MAIN.product_listmain_2",
+      "alt": "HIGH-NECK WORK JACKET"
+    },
+    {
+      "id": "style-01",
+      "type": "image",
+      "src": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-web-assets@7d3cae5595a79775ba32d1a010352d0fdedb2684/hero/images/style-01.jpg",
+      "alt": "BERGWERK SEOUL 스타일링 이미지",
+      "href": ""
+    },
+    {
+      "id": "fw02-video",
+      "type": "video",
+      "src": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-media@c5cde61a2eaedd39c3bde10e44d9ed72575fa9c4/fw02/BERG7549.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-web-assets@7d3cae5595a79775ba32d1a010352d0fdedb2684/hero/images/fw02-poster.jpg",
+      "alt": "BERGWERK SEOUL FW 02 영상",
+      "href": ""
+    }
+  ]
+}

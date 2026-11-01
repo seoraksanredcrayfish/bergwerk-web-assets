@@ -2,12 +2,12 @@
   "version": 1,
   "items": [
     {
-      "id": "fw01-video",
+      "id": "hero-02",
       "type": "video",
-      "src": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-media@c5cde61a2eaedd39c3bde10e44d9ed72575fa9c4/fw01/IMG_8292-2.mp4",
-      "poster": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-web-assets@7d3cae5595a79775ba32d1a010352d0fdedb2684/hero/images/fw01-poster.webp",
+      "src": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-media-2@0176066629233e6c099030162428b9e9a2ef8400/fw04/IMG_7074_2x3.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-media-2@0176066629233e6c099030162428b9e9a2ef8400/fw04/IMG_7074_2x3.jpg",
       "href": "https://bergwerkseoul.com",
-      "alt": "HIGH-NECK WORK JACKET"
+      "alt": "BERGWERK SEOUL 영상"
     },
     {
       "id": "style-01",

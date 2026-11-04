@@ -2,6 +2,33 @@
   "version": 1,
   "items": [
     {
+      "id": "ig-DbupzAtiWoy",
+      "image": "photos/DbupzAtiWoy.jpg",
+      "alt": "Instagram 게시물 스타일링 사진 (@lieyseo)",
+      "instagramUrl": "https://www.instagram.com/lieyseo/p/DbupzAtiWoy/",
+      "credit": "@lieyseo",
+      "postedAt": "2026-08-07",
+      "tags": []
+    },
+    {
+      "id": "ig-Dewen82CdCQ",
+      "image": "photos/Dewen82CdCQ.jpg",
+      "alt": "Instagram 게시물 스타일링 사진 (@lieyseo)",
+      "instagramUrl": "https://www.instagram.com/lieyseo/p/Dewen82CdCQ/",
+      "credit": "@lieyseo",
+      "postedAt": "2026-10-21",
+      "tags": []
+    },
+    {
+      "id": "ig-DfHUsUkn4ZV-3",
+      "image": "photos/DfHUsUkn4ZV-3.jpg",
+      "alt": "Instagram 게시물 스타일링 사진 (@ruzovagerbera)",
+      "instagramUrl": "https://www.instagram.com/ruzovagerbera/p/DfHUsUkn4ZV/",
+      "credit": "@ruzovagerbera",
+      "postedAt": "2026-10-30",
+      "tags": []
+    },
+    {
       "id": "ig-DX_4lCxkTKp",
       "image": "photos/DX_4lCxkTKp.jpg",
       "alt": "Instagram 게시물 스타일링 사진",
@@ -62,13 +89,6 @@
       "image": "photos/DbanEIVD2jP.jpg",
       "alt": "Instagram 게시물 스타일링 사진",
       "instagramUrl": "https://www.instagram.com/syo0ni/p/DbanEIVD2jP/",
-      "tags": []
-    },
-    {
-      "id": "ig-DbupzAtiWoy",
-      "image": "photos/DbupzAtiWoy.jpg",
-      "alt": "Instagram 게시물 스타일링 사진",
-      "instagramUrl": "https://www.instagram.com/lieyseo/p/DbupzAtiWoy/",
       "tags": []
     }
   ]

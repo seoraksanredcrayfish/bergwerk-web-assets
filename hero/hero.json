@@ -10,26 +10,18 @@
       "alt": "BERGWERK SEOUL 영상"
     },
     {
-      "id": "hero-02",
+      "id": "fw02-video",
       "type": "video",
-      "src": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-media-2@0176066629233e6c099030162428b9e9a2ef8400/fw04/IMG_7074_2x3.mp4",
-      "poster": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-media-2@0176066629233e6c099030162428b9e9a2ef8400/fw04/IMG_7074_2x3.jpg",
-      "href": "https://bergwerkseoul.com",
-      "alt": "BERGWERK SEOUL 영상"
+      "src": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-media@c5cde61a2eaedd39c3bde10e44d9ed72575fa9c4/fw02/BERG7549.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-web-assets@7d3cae5595a79775ba32d1a010352d0fdedb2684/hero/images/fw02-poster.jpg",
+      "alt": "BERGWERK SEOUL FW 02 영상",
+      "href": "https://bergwerkseoul.com"
     },
     {
       "id": "style-01",
       "type": "image",
       "src": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-web-assets@7d3cae5595a79775ba32d1a010352d0fdedb2684/hero/images/style-01.jpg",
       "alt": "BERGWERK SEOUL 스타일링 이미지",
-      "href": "https://bergwerkseoul.com"
-    },
-    {
-      "id": "fw02-video",
-      "type": "video",
-      "src": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-media@c5cde61a2eaedd39c3bde10e44d9ed72575fa9c4/fw02/BERG7549.mp4",
-      "poster": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-web-assets@7d3cae5595a79775ba32d1a010352d0fdedb2684/hero/images/fw02-poster.jpg",
-      "alt": "BERGWERK SEOUL FW 02 영상",
       "href": "https://bergwerkseoul.com"
     }
   ]

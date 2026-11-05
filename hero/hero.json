@@ -23,6 +23,14 @@
       "src": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-web-assets@7d3cae5595a79775ba32d1a010352d0fdedb2684/hero/images/style-01.jpg",
       "alt": "BERGWERK SEOUL 스타일링 이미지",
       "href": "https://bergwerkseoul.com"
+    },
+    {
+      "id": "fw03-8294",
+      "type": "video",
+      "src": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-media-2@ec7fac760f63495e34c082f1600ad08c828ead0a/fw03/BERG8294.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-media-2@ec7fac760f63495e34c082f1600ad08c828ead0a/fw03/BERG8294.jpg",
+      "href": "https://bergwerkseoul.com",
+      "alt": "BERGWERK SEOUL FW 03 영상"
     }
   ]
 }

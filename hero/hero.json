@@ -4,9 +4,9 @@
     {
       "id": "bf2026",
       "type": "video",
-      "src": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-media-2@f8973d09f31ac99b6b327f945cec3d38f6213397/bf2026/BF_hero_2x3.mp4",
-      "poster": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-web-assets@fa3b0bfba6a4a7786c95eabf3318b90dfce6af06/hero/images/bf2026-poster.jpg",
-      "href": "https://bergwerk.kr/product/list.html?cate_no=164",
+      "src": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-media-2@2bbcdd313c60e2835ce3c130255fcb2ab3f39a0e/bf2026/BF_hero_2x3_v2.mp4",
+      "poster": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-web-assets@d33bdab1f9df8ab122de8514b71c9172c498d8e1/hero/images/bf2026-poster-v2.jpg",
+      "href": "/product/list.html?cate_no=164",
       "alt": "BERGWERKSEOUL BLACK FRIDAY UP TO 80%",
       "pin": true
     },

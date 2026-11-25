@@ -2,15 +2,6 @@
   "version": 1,
   "items": [
     {
-      "id": "bf2026",
-      "type": "video",
-      "src": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-media-2@2bbcdd313c60e2835ce3c130255fcb2ab3f39a0e/bf2026/BF_hero_2x3_v2.mp4",
-      "poster": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-web-assets@d33bdab1f9df8ab122de8514b71c9172c498d8e1/hero/images/bf2026-poster-v2.jpg",
-      "href": "/product/list.html?cate_no=164",
-      "alt": "BERGWERKSEOUL BLACK FRIDAY UP TO 80%",
-      "pin": true
-    },
-    {
       "id": "hero-05",
       "type": "video",
       "src": "https://cdn.jsdelivr.net/gh/seoraksanredcrayfish/bergwerk-media-2@6f64717ad5ba0e8ead9f5e76c77cceaab224cd35/fw05/BERG0187_2x3.mp4",
